@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "Runia Path 1": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/merged%20runia.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+    "Contoh Gunung VIP": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/vip_mountain.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
+    "Global VIP Route": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/gvip_route.json",
+      "tier": "gvip",
+      "category": "Global VIP"
+    },
+
+    "Super VIP Legendary": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/svip_legendary.json",
+      "tier": "svip",
+      "category": "Super VIP"
+    }
+  }
+}
