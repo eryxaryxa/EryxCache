@@ -6,19 +6,19 @@
       "category": "Free"
     },
 
-    "Contoh Gunung VIP": {
+    "VIP Coming": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/vip_mountain.json",
       "tier": "vip",
       "category": "VIP"
     },
 
-    "Global VIP Route": {
-      "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/gvip_route.json",
+    "Yahayuk": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy3.json",
       "tier": "gvip",
       "category": "Global VIP"
     },
 
-    "Super VIP Legendary": {
+    "Jangan Dipake": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/YourRepo/main/paths/svip_legendary.json",
       "tier": "svip",
       "category": "Super VIP"
