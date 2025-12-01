@@ -1,7 +1,25 @@
 {
   "paths": {
-    "Mount Sadewa": {
+    "Sadewa City": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+    "Mount Newbie": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy1.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+    "Mount Tali": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy2.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+    "YNTKTS": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy5.json",
       "tier": "free",
       "category": "Free"
     },
