@@ -1,7 +1,7 @@
 {
   "paths": {
-    "Runia Path 1": {
-      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/merged_all.json",
+    "Mount Sadewa": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy.json",
       "tier": "free",
       "category": "Free"
     },
