@@ -24,6 +24,60 @@
       "category": "Free"
     },
 
+    "Wasabi": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy14.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+"Ragon": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy17.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+"Malaikat": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy18.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+"Funny": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy19.json",
+      "tier": "free",
+      "category": "Free"
+    },
+
+"Swiss": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy11.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
+"Imut": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy12.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
+"Arunika": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy13.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
+"Serenity": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy15.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
+"Mono": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy16.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+
     "Aneh Pro": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy6.json",
       "tier": "vip",
