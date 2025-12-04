@@ -60,6 +60,13 @@
       "category": "Free"
     },
 
+    "Freestyle": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy9.json",
+      "tier": "free",
+      "category": "Free"
+    },
+    
+
     "Mount Tali": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy2.json",
       "tier": "free",
