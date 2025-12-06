@@ -156,6 +156,12 @@
       "tier": "vip",
       "category": "VIP"
     },
+    
+    "velora": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy30.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
 
     "Runia": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy8.json",
