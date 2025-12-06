@@ -162,6 +162,12 @@
       "tier": "vip",
       "category": "VIP"
     },
+    
+    "GEMI": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy10.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
 
     "Yahayuk": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy3.json",
