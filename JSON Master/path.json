@@ -120,7 +120,13 @@
       "tier": "vip",
       "category": "VIP"
     },
-
+    
+     "YAKUJA": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy34.json",
+      "tier": "vip",
+      "category": "VIP"
+    },
+    
     "Molti": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy28.json",
       "tier": "vip",
