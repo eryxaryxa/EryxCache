@@ -5,7 +5,13 @@
       "tier": "free",
       "category": "Free"
     },
-
+    
+    "MT Night": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy33.json",
+      "tier": "free",
+      "category": "Free"
+    },
+    
     "Mount Newbie": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy1.json",
       "tier": "free",
@@ -138,7 +144,13 @@
       "tier": "vip",
       "category": "VIP"
     },
-
+    
+    "Aetheria WASD": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy32.json",
+      "tier": "vip",
+      "category": "VIP"
+   },
+    
     "Mono": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy16.json",
       "tier": "vip",
