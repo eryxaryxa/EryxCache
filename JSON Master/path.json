@@ -5,6 +5,12 @@
       "tier": "free",
       "category": "Free"
     },
+
+    "Wonderchase": {
+      "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy35.json",
+      "tier": "free",
+      "category": "Free"
+    },
     
     "MT Night": {
       "url": "https://raw.githubusercontent.com/eryxaryxa/EryxCache/refs/heads/main/Json/datadummy33.json",
